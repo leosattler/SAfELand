@@ -36,5 +36,5 @@ If you have any questions or remarks, please contact the authors:
 ____________________________________________________________
 
 #### Version History:  
-> 1.0 - 4 October 2019  
+> 1.0 - 5 October 2019  
 - release
